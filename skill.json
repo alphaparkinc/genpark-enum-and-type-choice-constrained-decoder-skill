@@ -1,0 +1,20 @@
+{
+  "name": "genpark-enum-and-type-choice-constrained-decoder-skill",
+  "version": "1.0.0",
+  "description": "Filters model outputs to strictly valid enumerable tool actions and parameter choices, preventing hallucination",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "constrained-decoder",
+    "enum-matcher",
+    "action-filter",
+    "type-constraints",
+    "anti-hallucination",
+    "python-standard-library",
+    "agent-skills",
+    "logits-mask",
+    "choice-selection",
+    "developer-tools"
+  ]
+}
