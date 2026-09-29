@@ -1,0 +1,6 @@
+name: genpark-enum-and-type-choice-constrained-decoder-skill
+version: 1.0.0
+description: Filters model outputs to strictly valid enumerable tool actions and parameter choices, preventing hallucination
+command: python
+args:
+  - mcp_server.py
