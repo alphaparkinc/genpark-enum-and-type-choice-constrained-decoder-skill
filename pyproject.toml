@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-enum-and-type-choice-constrained-decoder-skill"
+version = "1.0.0"
+description = "Filters model outputs to strictly valid enumerable tool actions and parameter choices, preventing hallucination"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
